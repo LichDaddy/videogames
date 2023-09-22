@@ -1,7 +1,9 @@
 # Video Games
 Our test project about video games. 
 
-## Favorite Games 
+> "Let me pass this class" - Me 
+
+## Favorite 
 - Magic The Gathering 
 - Dungeons & Dragons 
 - Apex Legends 
